@@ -1,2 +1,11 @@
 const name = "Marwan";
-console.log(name);
+
+function greet() {
+
+    const name = "Batool";
+
+    return "Hello " + name;
+}
+
+console.log(greet());
+console .log("Hello " + name); 
