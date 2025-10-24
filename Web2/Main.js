@@ -17,5 +17,5 @@ const greeting = "Hello, welcome to my profile!";
 console.log(greeting); 
 
 let hobbies = ["reading", "traveling", "coding"];
-console.log("My hobbies are: " + hobbies.join(", ")); 
+console.log("My hobbies are: " + hobbies ); 
  
