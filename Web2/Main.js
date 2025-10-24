@@ -11,3 +11,7 @@ let city = "Jarash";
 console.log("My city is " + city);
 
 var profession = "Blockchain Developer"; 
+console.log("My profession is " + profession);
+
+const greeting = "Hello, welcome to my profile!";
+console.log(greeting); 
